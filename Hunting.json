@@ -1,0 +1,24 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Hunting Trader",
+    "MinRequiredHumanity": -2147483648,
+    "MaxRequiredHumanity": 2147483647,
+    "TraderIcon": "Scrap Metal",
+    "Currencies": [
+        "expansionBanknoteEuro",
+        "euro100",
+        "euro50",
+        "euro20",
+        "euro10",
+        "euro5",
+        "euro"
+        ],
+    "Categories": [
+        "Meat",
+        "Fish",
+        "Fishing",
+        "Pelt",
+        "Steak"
+    ],
+    "Items": {}
+}
